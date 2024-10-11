@@ -1,2 +1,2 @@
 # HTMLandCSSonly
-"This is a website using HTML and CSS only."
+"This is a website using HTML and CSS only"
